@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page-framework</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Page-framework</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 13 Apr 2026 03:51:40 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debug page</title>
+      <link>http://localhost:1313/en/debug-page/</link>
+      <pubDate>Mon, 13 Apr 2026 03:51:40 +0200</pubDate>
+      <guid>http://localhost:1313/en/debug-page/</guid>
+      <description>&lt;p&gt;Something here&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/en/contact/</link>
+      <pubDate>Mon, 13 Apr 2026 02:55:38 +0200</pubDate>
+      <guid>http://localhost:1313/en/contact/</guid>
+      <description>&lt;p&gt;This is contact page&#xA;Test 2026-06-05 20_52&#xA;page-factory&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/pl/contact/</link>
+      <pubDate>Mon, 13 Apr 2026 02:55:38 +0200</pubDate>
+      <guid>http://localhost:1313/pl/contact/</guid>
+      <description>&lt;p&gt;To jest strona kontaktowa&#xA;Test 2026-06-14 02-54&#xA;page-factory&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Mon, 13 Apr 2026 02:46:44 +0200</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/pl/about/</link>
+      <pubDate>Mon, 13 Apr 2026 02:46:44 +0200</pubDate>
+      <guid>http://localhost:1313/pl/about/</guid>
+      <description>&lt;p&gt;O nas 2026-06-14&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
