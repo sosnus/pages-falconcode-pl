@@ -18,6 +18,7 @@ module:
 languages:
   en:
     label: English
+    languageName: English
     locale: en-US
     menus:
       main:
@@ -27,12 +28,13 @@ languages:
       - name: About
         url: /en/about/
         weight: 20
-      - name: Debug
-        url: /en/debug-page/
-        weight: 30
+      # - name: Debug
+      #   url: /en/debug-page/
+      #   weight: 30
     weight: 1
   pl:
     label: Polski
+    languageName: Polski
     locale: pl-PL
     menus:
       main:
