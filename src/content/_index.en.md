@@ -1,10 +1,10 @@
 ---
 title: "Page-framework"
-date: 2026-04-06
+date: 2026-07-06
 draft: false
-featured_image: '/media/img/background/background-1.jpg'
-cascade:
-  featured_image: '/media/img/background/background-1.jpg'
+featured_image: '/media/img/background/background-2.jpg'
+# cascade:
+#   featured_image: '/media/img/background/background-1.jpg'
 ---
 # Hello World!
 
