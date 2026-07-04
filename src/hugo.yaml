@@ -1,5 +1,5 @@
 baseURL: "https://pages.falconcode.pl/" # TODO: TODO-custom change there
-languageCode: "en-us"
+# languageCode: "en-us"
 title: "FalconCode Pages"
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
@@ -39,6 +39,9 @@ languages:
       - name: Kontakt
         url: /pl/contact/
         weight: 10
+      - name: O nas
+        url: /pl/about/
+        weight: 20
     weight: 2
 
 caches:
