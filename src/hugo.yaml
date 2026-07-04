@@ -1,8 +1,8 @@
-baseURL: "https://zaqwe.info/" # TODO: TODO-custom change there
+baseURL: "https://pages.falconcode.pl/" # TODO: TODO-custom change there
 languageCode: "en-us"
-title: "Page-framework"
+title: "FalconCode Pages"
 defaultContentLanguage: en
-disableDefaultLanguage: true
+defaultContentLanguageInSubdir: true
 
 # favicon: "/media/img/misc/ico.ico"
 # hope to use default favico
