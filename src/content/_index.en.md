@@ -5,8 +5,6 @@ draft: false
 layout: home
 translationKey: home
 featured_image: '/media/img/background/background-2.jpg'
-# cascade:
-#   featured_image: '/media/img/background/background-1.jpg'
 ---
 # Hello World!
 
