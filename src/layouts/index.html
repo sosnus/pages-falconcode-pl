@@ -1,14 +1,13 @@
+
+
 {{ define "main" }}
-
-{{ $home := .Site.GetPage (printf "/_index.%s.md" .Language.Lang) }}
-
-<h1>{{ $home.Title }}</h1>
-
-{{ $home.Content }}
-
-<hr>
-
-<p>Lang: {{ .Language.Lang }}</p>
-<p>Kind: {{ .Kind }}</p>
-2026-07-06
+  {{ if .Params.cascade.featured_image }}
+    <div class="w-100" style="background-image: url('{{ .Params.cascade.featured_image }}'); background-size: cover; height: 400px;"></div>
+  {{ end }}
+  <article class="pt4 pb4" style="max-width: 900px; margin: 0 auto;">
+    <h1 class="f2 fw7 lh-title mb3">{{ .Title }}</h1>
+    <div class="w-100 mw-none ph4 ph0-l">
+      {{ .Content }}
+    </div>
+  </article>
 {{ end }}

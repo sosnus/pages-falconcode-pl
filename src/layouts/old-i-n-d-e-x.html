@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+{{ $home := .Site.GetPage (printf "/_index.%s.md" .Language.Lang) }}
+
+<h1>{{ $home.Title }}</h1>
+
+{{ $home.Content }}
+
+<hr>
+
+<p>Lang: {{ .Language.Lang }}</p>
+<p>Kind: {{ .Kind }}</p>
+2026-07-06
+{{ end }}
