@@ -4,7 +4,7 @@ draft: false
 title: 'Contact'
 tags: []
 categories: []
-featured_image: '/media/img/background/background-2.jpg'
+featured_image: '/media/img/background/background-3.jpg'
 description: ''
 ---
 

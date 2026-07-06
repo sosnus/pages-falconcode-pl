@@ -5,7 +5,7 @@ title: 'Kontakt'
 tags: []
 categories: []
 description: ''
-featured_image: '/media/img/background/background-2.jpg'
+featured_image: '/media/img/background/background-5.jpg'
 
 # cascade:
   # featured_image: '/media/img/background/background-2.jpg'

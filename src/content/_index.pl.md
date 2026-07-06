@@ -4,7 +4,7 @@ date: 2026-07-06
 draft: false
 layout: home
 translationKey: home
-featured_image: '/media/img/background/background-2.jpg'
+featured_image: '/media/img/background/background-4.jpg'
 ---
 # Hello World!
 
