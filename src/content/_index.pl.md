@@ -2,7 +2,7 @@
 title: "Page-framework"
 date: 2026-07-06
 draft: false
-layout: home
+layout: single
 translationKey: home
 featured_image: '/media/img/background/background-4.jpg'
 ---
