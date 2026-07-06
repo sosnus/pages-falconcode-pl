@@ -1,0 +1,9 @@
+{{ define "main" }}
+  {{ $home := .Site.GetPage (printf "/_index.%s.md" .Language.Lang) }}
+  <article class="pt4 pb4" style="max-width: 900px; margin: 0 auto;">
+    <h1 class="f2 fw7 lh-title mb3">{{ $home.Title }}</h1>
+    <div class="w-100 mw-none ph4 ph0-l">
+      {{ $home.Content }}
+    </div>
+  </article>
+{{ end }}

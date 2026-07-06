@@ -1,0 +1,32 @@
+
+
+languages:
+  en:
+    label: English
+    languageName: English
+    locale: en-US
+    menus:
+      main:
+      - name: Contact
+        url: /en/contact/
+        weight: 10
+      - name: About
+        url: /en/about/
+        weight: 20
+      # - name: Debug
+      #   url: /en/debug-page/
+      #   weight: 30
+    weight: 1
+  pl:
+    label: Polski
+    languageName: Polski
+    locale: pl-PL
+    menus:
+      main:
+      - name: Kontakt
+        url: /pl/contact/
+        weight: 10
+      - name: O nas
+        url: /pl/about/
+        weight: 20
+    weight: 2
